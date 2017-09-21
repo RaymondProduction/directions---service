@@ -6,3 +6,4 @@ This small project has such opportunities
   - Draggable Directions
   - It can show geo coordinates of start and end points
   - It can show geo coordinates of direction points
+  - Show polygon
